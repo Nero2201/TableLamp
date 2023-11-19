@@ -1,0 +1,29 @@
+ /* defines for mapping words to commands */
+#define BRIGHTER      0x9
+#define DARKER        0x1D
+#define WHITE         0x15
+#define OFF           0x1F
+#define ON            0xD
+
+#define RED           0x19
+#define DARK_ORANGE   0x17
+#define ORANGE        0x40
+#define LIGHT_ORANGE  0xA
+#define YELLOW        0x1C
+
+#define GREEN         0x1B
+#define LIGHT_GREEN   0x12
+#define TORQUOIS      0x4C
+#define GREEN_BLUE    0x1E
+#define LIGHT_BLUE    0x14
+ 
+#define BLUE          0x11
+#define DARK_BLUE     0x16
+#define PURPLE        0x4
+#define DARK_PINK     0xE
+#define PINK          0xF
+
+#define FLASH         0x4D
+#define STROBE        0x0
+#define FADE          0x1A
+#define SMOOTH        0xC
